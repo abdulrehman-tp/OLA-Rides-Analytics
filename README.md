@@ -2,7 +2,9 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)<br>
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)<br>
-![Python](https://img.shields.io/badge/Python-Analysis-3776AB?logo=python&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Dataset-217346?logo=microsoftexcel&logoColor=white)<br>
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-Presentation-B7472A?logo=microsoftpowerpoint&logoColor=white)<br>
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?logo=github&logoColor=white)
 
 ---
 
