@@ -1,15 +1,15 @@
 # 🚖 OLA Rides Analytics Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)<br>
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)<br>
 ![Python](https://img.shields.io/badge/Python-Analysis-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 
 ---
 
 # 📌 Project Overview
 
-This project provides an end-to-end Data Analytics solution for OLA ride bookings using **SQL, Power BI, and Python**. The project analyzes booking trends, revenue, ride cancellations, payment methods, customer ratings, and vehicle performance to generate meaningful business insights.
+This project provides an end-to-end Data Analytics solution for OLA ride bookings.<br>
+using **SQL, Power BI, and Python**. The project analyzes booking trends, revenue, ride cancellations, payment methods, customer ratings, and vehicle performance to generate meaningful business insights.
 
 ---
 
